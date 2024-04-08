@@ -1,0 +1,1235 @@
+{
+  "pays": [
+    {
+      "country": "Afghanistan",
+      "unicode": "&#x1f1e6;&#x1f1eb;",
+      "phone": "+93"
+    },
+    {
+      "country": "Åland Islands",
+      "unicode": "&#x1f1e6;&#x1f1fd;"
+    },
+    {
+      "country": "Albania",
+      "unicode": "&#x1f1e6;&#x1f1f1;",
+      "phone": "+355"
+    },
+    {
+      "country": "Algeria",
+      "unicode": "&#x1f1e9;&#x1f1ff;",
+      "phone": "+213"
+    },
+    {
+      "country": "American Samoa",
+      "unicode": "&#x1f1e6;&#x1f1f8;",
+      "phone": "+1684"
+    },
+    {
+      "country": "Andorra",
+      "unicode": "&#x1f1e6;&#x1f1e9;",
+      "phone": "+376"
+    },
+    {
+      "country": "Angola",
+      "unicode": "&#x1f1e6;&#x1f1f4;",
+      "phone": "+244"
+    },
+    {
+      "country": "Anguilla",
+      "unicode": "&#x1f1e6;&#x1f1ee;"
+    },
+    {
+      "country": "Antarctica",
+      "unicode": "&#x1f1e6;&#x1f1f6;"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "unicode": "&#x1f1e6;&#x1f1ec;",
+      "phone": "+1268"
+    },
+    {
+      "country": "Argentina",
+      "unicode": "&#x1f1e6;&#x1f1f7;",
+      "phone": "+54"
+    },
+    {
+      "country": "Armenia",
+      "unicode": "&#x1f1e6;&#x1f1f2;",
+      "phone": "+374"
+    },
+    {
+      "country": "Aruba",
+      "unicode": "&#x1f1e6;&#x1f1fc;",
+      "phone": ".aw"
+    },
+    {
+      "country": "Australia",
+      "unicode": "&#x1f1e6;&#x1f1fa;",
+      "phone": "+61"
+    },
+    {
+      "country": "Austria",
+      "unicode": "&#x1f1e6;&#x1f1f9;",
+      "phone": "+43"
+    },
+    {
+      "country": "Azerbaijan",
+      "unicode": "&#x1f1e6;&#x1f1ff;",
+      "phone": "+994"
+    },
+    {
+      "country": "Bahamas",
+      "unicode": "&#x1f1e7;&#x1f1f8;",
+      "phone": "+1242"
+    },
+    {
+      "country": "Bahrain",
+      "unicode": "&#x1f1e7;&#x1f1ed;",
+      "phone": "+973"
+    },
+    {
+      "country": "Bangladesh",
+      "unicode": "&#x1f1e7;&#x1f1e9;",
+      "phone": "+880"
+    },
+    {
+      "country": "Barbados",
+      "unicode": "&#x1f1e7;&#x1f1e7;",
+      "phone": "+1246"
+    },
+    {
+      "country": "Belarus",
+      "unicode": "&#x1f1e7;&#x1f1fe;",
+      "phone": "+375"
+    },
+    {
+      "country": "Belgium",
+      "unicode": "&#x1f1e7;&#x1f1ea;",
+      "phone": "+32"
+    },
+    {
+      "country": "Belize",
+      "unicode": "&#x1f1e7;&#x1f1ff;",
+      "phone": "+501"
+    },
+    {
+      "country": "Benin",
+      "unicode": "&#x1f1e7;&#x1f1ef;",
+      "phone": "+229"
+    },
+    {
+      "country": "Bermuda",
+      "unicode": "&#x1f1e7;&#x1f1f2;",
+      "phone": ".bm"
+    },
+    {
+      "country": "Bhutan",
+      "unicode": "&#x1f1e7;&#x1f1f9;",
+      "phone": "+975"
+    },
+    {
+      "country": "Bolivia",
+      "unicode": "&#x1f1e7;&#x1f1f4;",
+      "phone": "+591"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "unicode": "&#x1f1e7;&#x1f1e6;",
+      "phone": "+387"
+    },
+    {
+      "country": "Botswana",
+      "unicode": "&#x1f1e7;&#x1f1fc;",
+      "phone": "+267"
+    },
+    {
+      "country": "Bouvet Island",
+      "unicode": "&#x1f1e7;&#x1f1fb;"
+    },
+    {
+      "country": "Brazil",
+      "unicode": "&#x1f1e7;&#x1f1f7;",
+      "phone": "+55"
+    },
+    {
+      "country": "British Indian Ocean Territory",
+      "unicode": "&#x1f1ee;&#x1f1f4;"
+    },
+    {
+      "country": "Brunei",
+      "unicode": "&#x1f1e7;&#x1f1f3;",
+      "phone": "+673"
+    },
+    {
+      "country": "Bulgaria",
+      "unicode": "&#x1f1e7;&#x1f1ec;",
+      "phone": "+359"
+    },
+    {
+      "country": "Burkina Faso",
+      "unicode": "&#x1f1e7;&#x1f1eb;",
+      "phone": "+226"
+    },
+    {
+      "country": "Burundi",
+      "unicode": "&#x1f1e7;&#x1f1ee;",
+      "phone": "+257"
+    },
+    {
+      "country": "Cambodia",
+      "unicode": "&#x1f1f0;&#x1f1ed;",
+      "phone": "+855"
+    },
+    {
+      "country": "Cameroon",
+      "unicode": "&#x1f1e8;&#x1f1f2;",
+      "phone": "+237"
+    },
+    {
+      "country": "Canada",
+      "unicode": "&#x1f1e8;&#x1f1e6;",
+      "phone": "+1"
+    },
+    {
+      "country": "Cape Verde",
+      "unicode": "&#x1f1e8;&#x1f1fb;",
+      "phone": "+238"
+    },
+    {
+      "country": "Caribbean Netherlands",
+      "unicode": "&#x1f1e7;&#x1f1f6;"
+    },
+    {
+      "country": "Cayman Islands",
+      "unicode": "&#x1f1f0;&#x1f1fe;",
+      "phone": ".ky"
+    },
+    {
+      "country": "Central African Republic",
+      "unicode": "&#x1f1e8;&#x1f1eb;",
+      "phone": "+236"
+    },
+    {
+      "country": "Chad",
+      "unicode": "&#x1f1f9;&#x1f1e9;",
+      "phone": "+235"
+    },
+    {
+      "country": "Chile",
+      "unicode": "&#x1f1e8;&#x1f1f1;",
+      "phone": "+56"
+    },
+    {
+      "country": "China",
+      "unicode": "&#x1f1e8;&#x1f1f3;",
+      "phone": "+86"
+    },
+    {
+      "country": "Christmas Island",
+      "unicode": "&#x1f1e8;&#x1f1fd;"
+    },
+    {
+      "country": "Cocos Islands",
+      "unicode": "&#x1f1e8;&#x1f1e8;"
+    },
+    {
+      "country": "Colombia",
+      "unicode": "&#x1f1e8;&#x1f1f4;",
+      "phone": "+57"
+    },
+    {
+      "country": "Comoros",
+      "unicode": "&#x1f1f0;&#x1f1f2;",
+      "phone": "+269"
+    },
+    {
+      "country": "Republic of the Congo",
+      "unicode": "&#x1f1e8;&#x1f1ec;",
+      "phone": "+242"
+    },
+    {
+      "country": "DR Congo",
+      "unicode": "&#x1f1e8;&#x1f1e9;",
+      "phone": "+243"
+    },
+    {
+      "country": "Cook Islands",
+      "unicode": "&#x1f1e8;&#x1f1f0;",
+      "phone": ".ck"
+    },
+    {
+      "country": "Costa Rica",
+      "unicode": "&#x1f1e8;&#x1f1f7;",
+      "phone": "+506"
+    },
+    {
+      "country": "Côte d'Ivoire",
+      "unicode": "&#x1f1e8;&#x1f1ee;",
+      "phone": "+225"
+    },
+    {
+      "country": "Croatia",
+      "unicode": "&#x1f1ed;&#x1f1f7;",
+      "phone": "+385"
+    },
+    {
+      "country": "Cuba",
+      "unicode": "&#x1f1e8;&#x1f1fa;",
+      "phone": "+53"
+    },
+    {
+      "country": "Curaçao",
+      "unicode": "&#x1f1e8;&#x1f1fc;",
+      "phone": ".cw"
+    },
+    {
+      "country": "Cyprus",
+      "unicode": "&#x1f1e8;&#x1f1fe;",
+      "phone": "+357"
+    },
+    {
+      "country": "Czechia",
+      "unicode": "&#x1f1e8;&#x1f1ff;",
+      "phone": "+420"
+    },
+    {
+      "country": "Denmark",
+      "unicode": "&#x1f1e9;&#x1f1f0;",
+      "phone": "+45"
+    },
+    {
+      "country": "Djibouti",
+      "unicode": "&#x1f1e9;&#x1f1ef;",
+      "phone": "+253"
+    },
+    {
+      "country": "Dominica",
+      "unicode": "&#x1f1e9;&#x1f1f2;",
+      "phone": "+1767"
+    },
+    {
+      "country": "Dominican Republic",
+      "unicode": "&#x1f1e9;&#x1f1f4;",
+      "phone": "+1809, +1829, +1849"
+    },
+    {
+      "country": "Ecuador",
+      "unicode": "&#x1f1ea;&#x1f1e8;",
+      "phone": "+593"
+    },
+    {
+      "country": "Egypt",
+      "unicode": "&#x1f1ea;&#x1f1ec;",
+      "phone": "+20"
+    },
+    {
+      "country": "El Salvador",
+      "unicode": "&#x1f1f8;&#x1f1fb;",
+      "phone": "+503"
+    },
+    {
+      "country": "England",
+      "unicode": "&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f;"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "unicode": "&#x1f1ec;&#x1f1f6;",
+      "phone": "+240"
+    },
+    {
+      "country": "Eritrea",
+      "unicode": "&#x1f1ea;&#x1f1f7;",
+      "phone": "+291"
+    },
+    {
+      "country": "Estonia",
+      "unicode": "&#x1f1ea;&#x1f1ea;",
+      "phone": "+372"
+    },
+    {
+      "country": "Eswatini",
+      "unicode": "&#x1f1f8;&#x1f1ff;",
+      "phone": "+268"
+    },
+    {
+      "country": "Ethiopia",
+      "unicode": "&#x1f1ea;&#x1f1f9;",
+      "phone": "+251"
+    },
+    {
+      "country": "Falkland Islands",
+      "unicode": "&#x1f1eb;&#x1f1f0;"
+    },
+    {
+      "country": "Faroe Islands",
+      "unicode": "&#x1f1eb;&#x1f1f4;",
+      "phone": "+298"
+    },
+    {
+      "country": "Fiji",
+      "unicode": "&#x1f1eb;&#x1f1ef;",
+      "phone": "+679"
+    },
+    {
+      "country": "Finland",
+      "unicode": "&#x1f1eb;&#x1f1ee;",
+      "phone": "+358"
+    },
+    {
+      "country": "France",
+      "unicode": "&#x1f1eb;&#x1f1f7;",
+      "phone": "+33"
+    },
+    {
+      "country": "French Guiana",
+      "unicode": "&#x1f1ec;&#x1f1eb;"
+    },
+    {
+      "country": "French Polynesia",
+      "unicode": "&#x1f1f5;&#x1f1eb;",
+      "phone": "+689"
+    },
+    {
+      "country": "French Southern and Antarctic Lands",
+      "unicode": "&#x1f1f9;&#x1f1eb;"
+    },
+    {
+      "country": "Gabon",
+      "unicode": "&#x1f1ec;&#x1f1e6;",
+      "phone": "+241"
+    },
+    {
+      "country": "Gambia",
+      "unicode": "&#x1f1ec;&#x1f1f2;",
+      "phone": "+220"
+    },
+    {
+      "country": "Georgia",
+      "unicode": "&#x1f1ec;&#x1f1ea;",
+      "phone": "+995"
+    },
+    {
+      "country": "Germany",
+      "unicode": "&#x1f1e9;&#x1f1ea;",
+      "phone": "+49"
+    },
+    {
+      "country": "Ghana",
+      "unicode": "&#x1f1ec;&#x1f1ed;",
+      "phone": "+233"
+    },
+    {
+      "country": "Gibraltar",
+      "unicode": "&#x1f1ec;&#x1f1ee;"
+    },
+    {
+      "country": "Greece",
+      "unicode": "&#x1f1ec;&#x1f1f7;",
+      "phone": "+30"
+    },
+    {
+      "country": "Greenland",
+      "unicode": "&#x1f1ec;&#x1f1f1;",
+      "phone": "+299"
+    },
+    {
+      "country": "Grenada",
+      "unicode": "&#x1f1ec;&#x1f1e9;",
+      "phone": "+1473"
+    },
+    {
+      "country": "Guadeloupe",
+      "unicode": "&#x1f1ec;&#x1f1f5;"
+    },
+    {
+      "country": "Guam",
+      "unicode": "&#x1f1ec;&#x1f1fa;",
+      "phone": "+1671"
+    },
+    {
+      "country": "Guatemala",
+      "unicode": "&#x1f1ec;&#x1f1f9;",
+      "phone": "+502"
+    },
+    {
+      "country": "Guernsey",
+      "unicode": "&#x1f1ec;&#x1f1ec;"
+    },
+    {
+      "country": "Guinea",
+      "unicode": "&#x1f1ec;&#x1f1f3;",
+      "phone": "+224"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "unicode": "&#x1f1ec;&#x1f1fc;",
+      "phone": "+245"
+    },
+    {
+      "country": "Guyana",
+      "unicode": "&#x1f1ec;&#x1f1fe;",
+      "phone": "+592"
+    },
+    {
+      "country": "Haiti",
+      "unicode": "&#x1f1ed;&#x1f1f9;",
+      "phone": "+509"
+    },
+    {
+      "country": "Heard Island and McDonald Islands",
+      "unicode": "&#x1f1ed;&#x1f1f2;"
+    },
+    {
+      "country": "Honduras",
+      "unicode": "&#x1f1ed;&#x1f1f3;",
+      "phone": "+504"
+    },
+    {
+      "country": "Hong Kong",
+      "unicode": "&#x1f1ed;&#x1f1f0;",
+      "phone": ".hk, .香港"
+    },
+    {
+      "country": "Hungary",
+      "unicode": "&#x1f1ed;&#x1f1fa;",
+      "phone": "+36"
+    },
+    {
+      "country": "Iceland",
+      "unicode": "&#x1f1ee;&#x1f1f8;",
+      "phone": "+354"
+    },
+    {
+      "country": "India",
+      "unicode": "&#x1f1ee;&#x1f1f3;",
+      "phone": "+91"
+    },
+    {
+      "country": "Indonesia",
+      "unicode": "&#x1f1ee;&#x1f1e9;",
+      "phone": "+62"
+    },
+    {
+      "country": "Iran",
+      "unicode": "&#x1f1ee;&#x1f1f7;",
+      "phone": ".ir, ایران."
+    },
+    {
+      "country": "Iraq",
+      "unicode": "&#x1f1ee;&#x1f1f6;",
+      "phone": "+964"
+    },
+    {
+      "country": "Ireland",
+      "unicode": "&#x1f1ee;&#x1f1ea;",
+      "phone": "+353"
+    },
+    {
+      "country": "Isle of Man",
+      "unicode": "&#x1f1ee;&#x1f1f2;",
+      "phone": ".im"
+    },
+    {
+      "country": "Israel",
+      "unicode": "&#x1f1ee;&#x1f1f1;",
+      "phone": "+972"
+    },
+    {
+      "country": "Italy",
+      "unicode": "&#x1f1ee;&#x1f1f9;",
+      "phone": "+39"
+    },
+    {
+      "country": "Jamaica",
+      "unicode": "&#x1f1ef;&#x1f1f2;",
+      "phone": "+1876"
+    },
+    {
+      "country": "Japan",
+      "unicode": "&#x1f1ef;&#x1f1f5;",
+      "phone": "+81"
+    },
+    {
+      "country": "Jersey",
+      "unicode": "&#x1f1ef;&#x1f1ea;"
+    },
+    {
+      "country": "Jordan",
+      "unicode": "&#x1f1ef;&#x1f1f4;",
+      "phone": "+962"
+    },
+    {
+      "country": "Kazakhstan",
+      "unicode": "&#x1f1f0;&#x1f1ff;",
+      "phone": "+76XX, +77XX"
+    },
+    {
+      "country": "Kenya",
+      "unicode": "&#x1f1f0;&#x1f1ea;",
+      "phone": "+254"
+    },
+    {
+      "country": "Kiribati",
+      "unicode": "&#x1f1f0;&#x1f1ee;",
+      "phone": "+686"
+    },
+    {
+      "country": "North Korea",
+      "unicode": "&#x1f1f0;&#x1f1f5;",
+      "phone": ".kp"
+    },
+    {
+      "country": "South Korea",
+      "unicode": "&#x1f1f0;&#x1f1f7;",
+      "phone": "+82"
+    },
+    {
+      "country": "Kosovo",
+      "unicode": "&#x1f1fd;&#x1f1f0;"
+    },
+    {
+      "country": "Kuwait",
+      "unicode": "&#x1f1f0;&#x1f1fc;",
+      "phone": "+965"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "unicode": "&#x1f1f0;&#x1f1ec;",
+      "phone": "+996"
+    },
+    {
+      "country": "Laos",
+      "unicode": "&#x1f1f1;&#x1f1e6;",
+      "phone": "+856"
+    },
+    {
+      "country": "Latvia",
+      "unicode": "&#x1f1f1;&#x1f1fb;",
+      "phone": "+371"
+    },
+    {
+      "country": "Lebanon",
+      "unicode": "&#x1f1f1;&#x1f1e7;",
+      "phone": "+961"
+    },
+    {
+      "country": "Lesotho",
+      "unicode": "&#x1f1f1;&#x1f1f8;",
+      "phone": "+266"
+    },
+    {
+      "country": "Liberia",
+      "unicode": "&#x1f1f1;&#x1f1f7;",
+      "phone": "+231"
+    },
+    {
+      "country": "Libya",
+      "unicode": "&#x1f1f1;&#x1f1fe;",
+      "phone": "+218"
+    },
+    {
+      "country": "Liechtenstein",
+      "unicode": "&#x1f1f1;&#x1f1ee;",
+      "phone": "+423"
+    },
+    {
+      "country": "Lithuania",
+      "unicode": "&#x1f1f1;&#x1f1f9;",
+      "phone": "+370"
+    },
+    {
+      "country": "Luxembourg",
+      "unicode": "&#x1f1f1;&#x1f1fa;",
+      "phone": "+352"
+    },
+    {
+      "country": "Macau",
+      "unicode": "&#x1f1f2;&#x1f1f4;"
+    },
+    {
+      "country": "Madagascar",
+      "unicode": "&#x1f1f2;&#x1f1ec;",
+      "phone": "+261"
+    },
+    {
+      "country": "Malawi",
+      "unicode": "&#x1f1f2;&#x1f1fc;",
+      "phone": "+265"
+    },
+    {
+      "country": "Malaysia",
+      "unicode": "&#x1f1f2;&#x1f1fe;",
+      "phone": "+60"
+    },
+    {
+      "country": "Maldives",
+      "unicode": "&#x1f1f2;&#x1f1fb;",
+      "phone": "+960"
+    },
+    {
+      "country": "Mali",
+      "unicode": "&#x1f1f2;&#x1f1f1;",
+      "phone": "+223"
+    },
+    {
+      "country": "Malta",
+      "unicode": "&#x1f1f2;&#x1f1f9;",
+      "phone": "+356"
+    },
+    {
+      "country": "Marshall Islands",
+      "unicode": "&#x1f1f2;&#x1f1ed;",
+      "phone": "+692"
+    },
+    {
+      "country": "Martinique",
+      "unicode": "&#x1f1f2;&#x1f1f6;"
+    },
+    {
+      "country": "Mauritania",
+      "unicode": "&#x1f1f2;&#x1f1f7;",
+      "phone": "+222"
+    },
+    {
+      "country": "Mauritius",
+      "unicode": "&#x1f1f2;&#x1f1fa;",
+      "phone": "+230"
+    },
+    {
+      "country": "Mayotte",
+      "unicode": "&#x1f1fe;&#x1f1f9;"
+    },
+    {
+      "country": "Mexico",
+      "unicode": "&#x1f1f2;&#x1f1fd;",
+      "phone": "+52"
+    },
+    {
+      "country": "Micronesia",
+      "unicode": "&#x1f1eb;&#x1f1f2;",
+      "phone": ".fm"
+    },
+    {
+      "country": "Moldova",
+      "unicode": "&#x1f1f2;&#x1f1e9;",
+      "phone": "+373"
+    },
+    {
+      "country": "Monaco",
+      "unicode": "&#x1f1f2;&#x1f1e8;",
+      "phone": "+377"
+    },
+    {
+      "country": "Mongolia",
+      "unicode": "&#x1f1f2;&#x1f1f3;",
+      "phone": "+976"
+    },
+    {
+      "country": "Montenegro",
+      "unicode": "&#x1f1f2;&#x1f1ea;",
+      "phone": "+382"
+    },
+    {
+      "country": "Montserrat",
+      "unicode": "&#x1f1f2;&#x1f1f8;",
+      "phone": ".ms"
+    },
+    {
+      "country": "Morocco",
+      "unicode": "&#x1f1f2;&#x1f1e6;",
+      "phone": "+212"
+    },
+    {
+      "country": "Mozambique",
+      "unicode": "&#x1f1f2;&#x1f1ff;",
+      "phone": "+258"
+    },
+    {
+      "country": "Myanmar",
+      "unicode": "&#x1f1f2;&#x1f1f2;",
+      "phone": "+95"
+    },
+    {
+      "country": "Namibia",
+      "unicode": "&#x1f1f3;&#x1f1e6;",
+      "phone": "+264"
+    },
+    {
+      "country": "Nauru",
+      "unicode": "&#x1f1f3;&#x1f1f7;",
+      "phone": "+674"
+    },
+    {
+      "country": "Nepal",
+      "unicode": "&#x1f1f3;&#x1f1f5;",
+      "phone": "+977"
+    },
+    {
+      "country": "Netherlands",
+      "unicode": "&#x1f1f3;&#x1f1f1;",
+      "phone": "+31"
+    },
+    {
+      "country": "New Caledonia",
+      "unicode": "&#x1f1f3;&#x1f1e8;",
+      "phone": "+687"
+    },
+    {
+      "country": "New Zealand",
+      "unicode": "&#x1f1f3;&#x1f1ff;",
+      "phone": "+64"
+    },
+    {
+      "country": "Nicaragua",
+      "unicode": "&#x1f1f3;&#x1f1ee;",
+      "phone": "+505"
+    },
+    {
+      "country": "Niger",
+      "unicode": "&#x1f1f3;&#x1f1ea;",
+      "phone": "+227"
+    },
+    {
+      "country": "Nigeria",
+      "unicode": "&#x1f1f3;&#x1f1ec;",
+      "phone": "+234"
+    },
+    {
+      "country": "Niue",
+      "unicode": "&#x1f1f3;&#x1f1fa;",
+      "phone": ".nu"
+    },
+    {
+      "country": "Norfolk Island",
+      "unicode": "&#x1f1f3;&#x1f1eb;"
+    },
+    {
+      "country": "North Macedonia",
+      "unicode": "&#x1f1f2;&#x1f1f0;",
+      "phone": "+389"
+    },
+    {
+      "country": "Northern Ireland"
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "unicode": "&#x1f1f2;&#x1f1f5;",
+      "phone": "+1670"
+    },
+    {
+      "country": "Norway",
+      "unicode": "&#x1f1f3;&#x1f1f4;",
+      "phone": "+47"
+    },
+    {
+      "country": "Oman",
+      "unicode": "&#x1f1f4;&#x1f1f2;",
+      "phone": "+968"
+    },
+    {
+      "country": "Pakistan",
+      "unicode": "&#x1f1f5;&#x1f1f0;",
+      "phone": "+92"
+    },
+    {
+      "country": "Palau",
+      "unicode": "&#x1f1f5;&#x1f1fc;",
+      "phone": "+680"
+    },
+    {
+      "country": "Palestine",
+      "unicode": "&#x1f1f5;&#x1f1f8;",
+      "phone": "+970"
+    },
+    {
+      "country": "Panama",
+      "unicode": "&#x1f1f5;&#x1f1e6;",
+      "phone": "+507"
+    },
+    {
+      "country": "Papua New Guinea",
+      "unicode": "&#x1f1f5;&#x1f1ec;",
+      "phone": "+675"
+    },
+    {
+      "country": "Paraguay",
+      "unicode": "&#x1f1f5;&#x1f1fe;",
+      "phone": "+595"
+    },
+    {
+      "country": "Peru",
+      "unicode": "&#x1f1f5;&#x1f1ea;",
+      "phone": "+51"
+    },
+    {
+      "country": "Philippines",
+      "unicode": "&#x1f1f5;&#x1f1ed;",
+      "phone": "+63"
+    },
+    {
+      "country": "Pitcairn Islands",
+      "unicode": "&#x1f1f5;&#x1f1f3;",
+      "phone": ".pn"
+    },
+    {
+      "country": "Poland",
+      "unicode": "&#x1f1f5;&#x1f1f1;",
+      "phone": "+48"
+    },
+    {
+      "country": "Portugal",
+      "unicode": "&#x1f1f5;&#x1f1f9;",
+      "phone": "+351"
+    },
+    {
+      "country": "Puerto Rico",
+      "unicode": "&#x1f1f5;&#x1f1f7;",
+      "phone": ".pr"
+    },
+    {
+      "country": "Qatar",
+      "unicode": "&#x1f1f6;&#x1f1e6;",
+      "phone": "+974"
+    },
+    {
+      "country": "Réunion",
+      "unicode": "&#x1f1f7;&#x1f1ea;"
+    },
+    {
+      "country": "Romania",
+      "unicode": "&#x1f1f7;&#x1f1f4;",
+      "phone": "+40"
+    },
+    {
+      "country": "Russia",
+      "unicode": "&#x1f1f7;&#x1f1fa;",
+      "phone": "+73XX, +74XX, +75XX, +78XX, +79XX"
+    },
+    {
+      "country": "Rwanda",
+      "unicode": "&#x1f1f7;&#x1f1fc;",
+      "phone": "+250"
+    },
+    {
+      "country": "Saint Barthélemy",
+      "unicode": "&#x1f1e7;&#x1f1f1;"
+    },
+    {
+      "country": "Saint Helena, Ascension and Tristan da Cunha",
+      "unicode": "&#x1f1f8;&#x1f1ed;"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "unicode": "&#x1f1f0;&#x1f1f3;",
+      "phone": "+1869"
+    },
+    {
+      "country": "Saint Lucia",
+      "unicode": "&#x1f1f1;&#x1f1e8;",
+      "phone": "+1758"
+    },
+    {
+      "country": "Saint Martin",
+      "unicode": "&#x1f1f2;&#x1f1eb;"
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "unicode": "&#x1f1f5;&#x1f1f2;"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "unicode": "&#x1f1fb;&#x1f1e8;",
+      "phone": "+1784"
+    },
+    {
+      "country": "Samoa",
+      "unicode": "&#x1f1fc;&#x1f1f8;",
+      "phone": "+685"
+    },
+    {
+      "country": "San Marino",
+      "unicode": "&#x1f1f8;&#x1f1f2;",
+      "phone": "+378"
+    },
+    {
+      "country": "São Tomé and Príncipe",
+      "unicode": "&#x1f1f8;&#x1f1f9;",
+      "phone": "+239"
+    },
+    {
+      "country": "Saudi Arabia",
+      "unicode": "&#x1f1f8;&#x1f1e6;",
+      "phone": "+966"
+    },
+    {
+      "country": "Scotland",
+      "unicode": "&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f;"
+    },
+    {
+      "country": "Senegal",
+      "unicode": "&#x1f1f8;&#x1f1f3;",
+      "phone": "+221"
+    },
+    {
+      "country": "Serbia",
+      "unicode": "&#x1f1f7;&#x1f1f8;",
+      "phone": "+381"
+    },
+    {
+      "country": "Seychelles",
+      "unicode": "&#x1f1f8;&#x1f1e8;",
+      "phone": "+248"
+    },
+    {
+      "country": "Sierra Leone",
+      "unicode": "&#x1f1f8;&#x1f1f1;",
+      "phone": "+232"
+    },
+    {
+      "country": "Singapore",
+      "unicode": "&#x1f1f8;&#x1f1ec;",
+      "phone": "+65"
+    },
+    {
+      "country": "Sint Maarten",
+      "unicode": "&#x1f1f8;&#x1f1fd;"
+    },
+    {
+      "country": "Slovakia",
+      "unicode": "&#x1f1f8;&#x1f1f0;",
+      "phone": "+421"
+    },
+    {
+      "country": "Slovenia",
+      "unicode": "&#x1f1f8;&#x1f1ee;",
+      "phone": "+386"
+    },
+    {
+      "country": "Solomon Islands",
+      "unicode": "&#x1f1f8;&#x1f1e7;",
+      "phone": "+677"
+    },
+    {
+      "country": "Somalia",
+      "unicode": "&#x1f1f8;&#x1f1f4;",
+      "phone": "+252"
+    },
+    {
+      "country": "South Africa",
+      "unicode": "&#x1f1ff;&#x1f1e6;",
+      "phone": "+27"
+    },
+    {
+      "country": "South Georgia",
+      "unicode": "&#x1f1ec;&#x1f1f8;"
+    },
+    {
+      "country": "South Sudan",
+      "unicode": "&#x1f1f8;&#x1f1f8;",
+      "phone": "+211"
+    },
+    {
+      "country": "Spain",
+      "unicode": "&#x1f1ea;&#x1f1f8;",
+      "phone": "+34"
+    },
+    {
+      "country": "Sri Lanka",
+      "unicode": "&#x1f1f1;&#x1f1f0;",
+      "phone": "+94"
+    },
+    {
+      "country": "Sudan",
+      "unicode": "&#x1f1f8;&#x1f1e9;",
+      "phone": "+249"
+    },
+    {
+      "country": "Suriname",
+      "unicode": "&#x1f1f8;&#x1f1f7;",
+      "phone": "+597"
+    },
+    {
+      "country": "Svalbard and Jan Mayen",
+      "unicode": "&#x1f1f8;&#x1f1ef;"
+    },
+    {
+      "country": "Sweden",
+      "unicode": "&#x1f1f8;&#x1f1ea;",
+      "phone": "+46"
+    },
+    {
+      "country": "Switzerland",
+      "unicode": "&#x1f1e8;&#x1f1ed;",
+      "phone": "+41"
+    },
+    {
+      "country": "Syria",
+      "unicode": "&#x1f1f8;&#x1f1fe;",
+      "phone": "+963"
+    },
+    {
+      "country": "Taiwan",
+      "unicode": "&#x1f1f9;&#x1f1fc;"
+    },
+    {
+      "country": "Tajikistan",
+      "unicode": "&#x1f1f9;&#x1f1ef;",
+      "phone": "+992"
+    },
+    {
+      "country": "Tanzania",
+      "unicode": "&#x1f1f9;&#x1f1ff;",
+      "phone": "+255"
+    },
+    {
+      "country": "Thailand",
+      "unicode": "&#x1f1f9;&#x1f1ed;",
+      "phone": "+66"
+    },
+    {
+      "country": "Timor-Leste",
+      "unicode": "&#x1f1f9;&#x1f1f1;",
+      "phone": "+670"
+    },
+    {
+      "country": "Togo",
+      "unicode": "&#x1f1f9;&#x1f1ec;",
+      "phone": "+228"
+    },
+    {
+      "country": "Tokelau",
+      "unicode": "&#x1f1f9;&#x1f1f0;",
+      "phone": ".tk"
+    },
+    {
+      "country": "Tonga",
+      "unicode": "&#x1f1f9;&#x1f1f4;",
+      "phone": "+676"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "unicode": "&#x1f1f9;&#x1f1f9;",
+      "phone": "+1868"
+    },
+    {
+      "country": "Tunisia",
+      "unicode": "&#x1f1f9;&#x1f1f3;",
+      "phone": "+216"
+    },
+    {
+      "country": "Turkey",
+      "unicode": "&#x1f1f9;&#x1f1f7;",
+      "phone": "+90"
+    },
+    {
+      "country": "Turkmenistan",
+      "unicode": "&#x1f1f9;&#x1f1f2;",
+      "phone": "+993"
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "unicode": "&#x1f1f9;&#x1f1e8;",
+      "phone": ".tc"
+    },
+    {
+      "country": "Tuvalu",
+      "unicode": "&#x1f1f9;&#x1f1fb;",
+      "phone": "+688"
+    },
+    {
+      "country": "Uganda",
+      "unicode": "&#x1f1fa;&#x1f1ec;",
+      "phone": "+256"
+    },
+    {
+      "country": "Ukraine",
+      "unicode": "&#x1f1fa;&#x1f1e6;",
+      "phone": "+380"
+    },
+    {
+      "country": "United Arab Emirates",
+      "unicode": "&#x1f1e6;&#x1f1ea;",
+      "phone": "+971"
+    },
+    {
+      "country": "United Kingdom",
+      "unicode": "&#x1f1ec;&#x1f1e7;",
+      "phone": "+44"
+    },
+    {
+      "country": "United States",
+      "unicode": "&#x1f1fa;&#x1f1f8;",
+      "phone": "+1"
+    },
+    {
+      "country": "United States Minor Outlying Islands",
+      "unicode": "&#x1f1fa;&#x1f1f2;"
+    },
+    {
+      "country": "Uruguay",
+      "unicode": "&#x1f1fa;&#x1f1fe;",
+      "phone": "+598"
+    },
+    {
+      "country": "Uzbekistan",
+      "unicode": "&#x1f1fa;&#x1f1ff;",
+      "phone": "+998"
+    },
+    {
+      "country": "Vanuatu",
+      "unicode": "&#x1f1fb;&#x1f1fa;",
+      "phone": "+678"
+    },
+    {
+      "country": "Vatican City",
+      "unicode": "&#x1f1fb;&#x1f1e6;"
+    },
+    {
+      "country": "Venezuela",
+      "unicode": "&#x1f1fb;&#x1f1ea;",
+      "phone": ".ve"
+    },
+    {
+      "country": "Vietnam",
+      "unicode": "&#x1f1fb;&#x1f1f3;",
+      "phone": "+84"
+    },
+    {
+      "country": "British Virgin Islands",
+      "unicode": "&#x1f1fb;&#x1f1ec;"
+    },
+    {
+      "country": "United States Virgin Islands",
+      "unicode": "&#x1f1fb;&#x1f1ee;"
+    },
+    {
+      "country": "Wales",
+      "unicode": "&#x1f3f4;&#xe0067;&#xe0062;&#xe0077;&#xe006c;&#xe0073;&#xe007f;"
+    },
+    {
+      "country": "Wallis and Futuna",
+      "unicode": "&#x1f1fc;&#x1f1eb;",
+      "phone": ".wf"
+    },
+    {
+      "country": "Western Sahara",
+      "unicode": "&#x1f1ea;&#x1f1ed;",
+      "phone": ".eh"
+    },
+    {
+      "country": "Yemen",
+      "unicode": "&#x1f1fe;&#x1f1ea;",
+      "phone": "+967"
+    },
+    {
+      "country": "Zambia",
+      "unicode": "&#x1f1ff;&#x1f1f2;",
+      "phone": "+260"
+    },
+    {
+      "country": "Zimbabwe",
+      "unicode": "&#x1f1ff;&#x1f1fc;",
+      "phone": "+263"
+    }
+  ]
+}
