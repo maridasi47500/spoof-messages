@@ -10,11 +10,21 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.1].define(version: 2024_04_08_002124) do
+ActiveRecord::Schema[7.1].define(version: 2024_04_08_003215) do
   create_table "countries", force: :cascade do |t|
     t.string "country"
     t.string "unicode"
     t.string "phone"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "people", force: :cascade do |t|
+    t.string "fullname"
+    t.string "pic"
+    t.string "phone"
+    t.integer "country_id"
+    t.string "email"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

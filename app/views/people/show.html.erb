@@ -1,7 +1,72 @@
 <p style="color: green"><%= notice %></p>
+<div id="infoperson">
+  <img src="/uploads/<%= @person.pic %>"/>
+  <h2><%=@person.fullname%></h2>
+  <p class="phone"><%=@person.country.unicode.html_safe%> <%=@person.country.phone%> <%=@person.phone%></p>
+  <p class="email"> <%=@person.email%></p>
+        </div>
 
-<%= render @person %>
-
+<div class="row row-cols-1 row-cols-md-2 g-4">
+    <div class="col">
+          <div class="card">
+                  <img src="..." class="card-img-top" alt="...">
+                        <div class="card-body">
+                                  <h5 class="card-title">Spoof email</h5>
+                                  <p class="card-text"><%=link_to "spoof email",spoofemail_person_path(@person)%></p>
+                                                </div>
+                                                    </div>
+                                                      </div>
+                                                        <div class="col">
+                                                              <div class="card">
+                                                                      <img src="..." class="card-img-top" alt="...">
+                                                                            <div class="card-body">
+                                                                                      <h5 class="card-title">Card title</h5>
+                                                                                              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                                                                                    </div>
+                                                                                                        </div>
+                                                                                                          </div>
+                                                                                                            <div class="col">
+                                                                                                                  <div class="card">
+                                                                                                                          <img src="..." class="card-img-top" alt="...">
+                                                                                                                                <div class="card-body">
+                                                                                                                                          <h5 class="card-title">Spoof whatsapp</h5>
+                                                                                                                                          <form action="<%=whatsapp_person_path(@person)%>" method="post">
+                                                                                                                                            <input type="hidden" name="phone" value="<%=@person.country.phone%><%=@person.phone%>"/> 
+                                                                                                                                            <div >
+                                                                                                                                              <label for="message">
+                                                                                                                                                message
+                                                                                                                                              </label>
+                                                                                                                                              <textarea name="message" id="message">
+                                                                                                                                              </textarea>
+                                                                                                                                            </div>
+                                                                                                                                            <div >
+                                                                                                                                              <label for="pic">
+                                                                                                                                                pic
+                                                                                                                                              </label>
+                                                                                                                                              <select name="pic" id="pic">
+                                                                                                                                              </select>
+                                                                                                                                            </div>
+                                                                                                                                            <div >
+                                                                                                                                              <label for="caption">
+                                                                                                                                                caption
+                                                                                                                                                
+                                                                                                                                              </label>
+                                                                                                                                              <input type="text" name="caption" id="caption"/>
+                                                                                                                                            </div>
+                                                                                                                                          </form>
+                                                                                                                                                        </div>
+                                                                                                                                                            </div>
+                                                                                                                                                              </div>
+                                                                                                                                                                <div class="col">
+                                                                                                                                                                      <div class="card">
+                                                                                                                                                                              <img src="..." class="card-img-top" alt="...">
+                                                                                                                                                                                    <div class="card-body">
+                                                                                                                                                                                              <h5 class="card-title">Card title</h5>
+                                                                                                                                                                                                      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                                                                                                                                                                                            </div>
+                                                                                                                                                                                                                </div>
+                                                                                                                                                                                                                  </div>
+</div>
 <div>
   <%= link_to "Edit this person", edit_person_path(@person) %> |
   <%= link_to "Back to people", people_path %>

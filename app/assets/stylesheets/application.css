@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+#infoperson {
+	width:100%;
+	text-align:center;
+}
+#infoperson img {
+		height: 200px;
+			width: 170px;
+				/* border: 1px solid; */
+		}

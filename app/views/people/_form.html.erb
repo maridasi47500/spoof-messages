@@ -18,22 +18,28 @@
 
   <div>
     <%= form.label :pic, style: "display: block" %>
-    <%= form.text_field :pic %>
+    <%= form.file_field :pic %>
   </div>
 
   <div>
-    <%= form.label :phone, style: "display: block" %>
-    <%= form.text_field :phone %>
-  </div>
 
-  <div>
+
     <%= form.label :country_id, style: "display: block" %>
-    <%= form.number_field :country_id %>
+    and
+    <%= form.label :phone, style: "display: block" %>
+
+  </div>
+
+  <div>
+    <%= form.select :country_id, Country.all.collect {|x|["#{x.unicode} (#{x.phone})".html_safe, x.id]} %>
+    <%= form.telephone_field :phone %>
+
+
   </div>
 
   <div>
     <%= form.label :email, style: "display: block" %>
-    <%= form.text_field :email %>
+    <%= form.email_field :email %>
   </div>
 
   <div>

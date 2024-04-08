@@ -1,8 +1,14 @@
 Rails.application.routes.draw do
-  resources :people
+  resources :people do
+    member do
+      get "spoofemail"
+      post "whatsapp"
+    end
+  end
   get 'welcome/index'
-  devise_for :users
   resources :countries
+  devise_for :users, controllers: { registrations: 'users/registrations',sessions: 'users/sessions' }
+
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
   # Reveal health status on /up that returns 200 if the app boots with no exceptions, otherwise 500.

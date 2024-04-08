@@ -1,7 +1,27 @@
 class PeopleController < ApplicationController
-  before_action :set_person, only: %i[ show edit update destroy ]
+  before_action :set_person, only: %i[ show edit update destroy spoofemail whatsapp ]
 
   # GET /people or /people.json
+  def whatsapp
+     threads=[]
+     pic = 'hi.png' 
+     message = 'hi.png'
+     caption='caption'
+     phone='+777'
+     myvalue=""
+     threads << Thread.new { Thread.current[:output] =`cd #{Rails.root.to_s}/spoof && echo 'spoof whatsapp' && python3 ./whatsapp.py \'#{phone}\' \'#{message or ""}\' \'#{pic or ""}\' \'#{caption or ''}\'` }#jj
+     threads.each do |t|
+         t.join
+         myvalue << t[:output]
+      end
+      p myvalue
+      redirect_to person_url(@person), notice: "Person was spoofed (whatsapp)."
+  end
+  def spoofemail
+      UserMailer.with(user: @person).welcome_email.deliver_later
+      redirect_to person_url(@person), notice: "Person was spoofed (email)."
+
+  end
   def index
     @people = Person.all
   end
